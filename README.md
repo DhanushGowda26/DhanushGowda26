@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://twitter.com/dhanuks26"><img src="https://img.shields.io/twitter/follow/dhanuks26?style=social" alt="Twitter"></a>
-   <a href=""https://www.linkedin.com/in/dhanush-k-s-a5720a1b9/"><img src="https://img.shields.io/badge/Linkedin-Follow-blue" alt="Linkedin"></a>
-  <a href="https://hashnode.com/@dhanushks"><img src="https://img.shields.io/badge/Hashnode-Follow-blue" alt="Hashnode"></a>
+   <a href="https://www.linkedin.com/in/dhanush-k-s-a5720a1b9/"><img src="https://img.shields.io/badge/Linkedin-Follow-blue" alt="Linkedin"></a>
+  <a href="https://dhanushks.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-Follow-blue" alt="Hashnode"></a>
 </p>
