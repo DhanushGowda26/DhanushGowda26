@@ -14,14 +14,14 @@
     🚀 I'm an enthusiastic engineer with a passion for learning and exploring new technologies.<br>
     🌱 Currently, I'm expanding my knowledge in <b>Web Dev</b> and <b>DevOps</b>.<br>
     💻 I love sharing my technical insights and experiences on <a href="https://twitter.com/dhanuks26" target="_blank">Twitter</a>.<br>
-    📝 Check out my blog posts on <a href="https://dhanushks.hashnode.dev/" target="_blank">Hashnode</a> to delve deeper into my thoughts.<br>
-    💡 I'm always open to exciting projects, innovative ideas, and new opportunities<br>
+    📝 Check out my blog posts on <a href="https://dhanushks.hashnode.dev/" target="_blank">Hashnode</a> to explore my hands-on learning experiences and delve             deeper into my thoughts.<br>
+    💡 I'm always open to exciting projects, innovative ideas, and new opportunities.<br>
     ✉️ Feel free to reach out to me through any of the links above. Let's connect and create something amazing together! 
   </samp>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Languages-HTML,%20CSS,%20JavaScript,%20Java,%20Python-%23F7DF1E?style=for-the-badge&logoColor=black&labelColor=%23444444" alt="Languages">
+  <img src="https://img.shields.io/badge/Languages-HTML,%20CSS,%20JavaScript,%20React,%20Java,%20Python-%23F7DF1E?style=for-the-badge&logoColor=black&labelColor=%23444444" alt="Languages">
    <img src="https://img.shields.io/badge/Tools-AWS,%20Docker,%20Kubernetes,%20Terraform-%23FF9900?style=for-the-badge&logo=amazon-           aws&logoColor=white&labelColor=%23444444" alt="Tools">
   <img src="https://img.shields.io/badge/Interests-DevOps%20|%20Web%20Dev-%235363E5?style=for-the-badge&labelColor=%23444444" alt="Interests">
 </p>
