@@ -15,7 +15,7 @@
     🌱 Currently, I'm expanding my knowledge in <b>Web Dev</b> and <b>DevOps</b>.<br>
     💻 I love sharing my technical insights and experiences on <a href="https://twitter.com/dhanuks26" target="_blank">Twitter</a>.<br>
     📝 Check out my blog posts on <a href="https://dhanushks.hashnode.dev/" target="_blank">Hashnode</a> to delve deeper into my thoughts.<br>
-    💡 I'm always open to exciting projects, innovative ideas, and new opportunities in web development and DevOps.<br>
+    💡 I'm always open to exciting projects, innovative ideas, and new opportunities<br>
     ✉️ Feel free to reach out to me through any of the links above. Let's connect and create something amazing together! 
   </samp>
 </p>
