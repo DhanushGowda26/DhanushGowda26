@@ -12,7 +12,7 @@
   <samp>
     <b>🌟 Welcome to my GitHub profile! 🌟</b><br>
     🚀 I'm an enthusiastic engineer with a passion for learning and exploring new technologies.<br>
-    🌱 Currently, I'm expanding my knowledge in <b>Web Dev</b> and <b>DevOps</b>.<br>
+    🌱 Currently, I'm expanding my knowledge in <b>Cloud Computing</b> and <b>DevOps</b>.<br>
     💻 I love sharing my technical insights and experiences on <a href="https://twitter.com/dhanuks26" target="_blank">Twitter</a>.<br>
     📝 Check out my blog posts on <a href="https://dhanushks.hashnode.dev/" target="_blank">Hashnode</a> to explore my hands-on learning experiences and delve             deeper into my thoughts.<br>
     💡 I'm always open to exciting projects, innovative ideas, and new opportunities.<br>
