@@ -11,12 +11,14 @@
 <p align="center">
   <samp>
     <b>🌟 Welcome to my GitHub profile! 🌟</b><br>
-    🚀 I'm an enthusiastic engineer with a passion for learning and exploring new technologies.<br>
-    🌱 Currently, I'm expanding my knowledge in <b>Cloud Computing</b> and <b>DevOps</b>.<br>
-    💻 I love sharing my technical insights and experiences on <a href="https://twitter.com/dhanuks26" target="_blank">Twitter</a>.<br>
-    📝 Check out my blog posts on <a href="https://dhanushks.hashnode.dev/" target="_blank">Hashnode</a> to explore my hands-on learning experiences and delve             deeper into my thoughts.<br>
-    💡 I'm always open to exciting projects, innovative ideas, and new opportunities.<br>
-    ✉️ Feel free to reach out to me through any of the links above. Let's connect and create something amazing together! 
+    🔭 I'm currently seeking software engineering roles, and I have a strong passion for Cloud Computing and DevOps. <br>
+    🤝 I'm looking for help with discovering exciting job opportunities that align with my skills and interests. If you know of any openings, please don't 
+        hesitate to reach out! <br>
+    👯 Additionally, I'm eager to collaborate on engaging projects, innovative ideas, and explore new opportunities within the tech industry. <br>
+    🌱 At the moment, I'm focused on learning and mastering AWS and various DevOps tools to further enhance my skill set. <br>
+    📝 Check out my blog posts on <a href="https://dhanushks.hashnode.dev/" target="_blank">Hashnode</a> to explore my hands-on learning experiences and delve             deeper into my thoughts. <br>
+    💬 Feel free to ask me anything about Cloud Computing and related topics. I'm always happy to share my knowledge and insights. <br>
+    ⚡ Remember, learning is a constant journey, and embracing it can lead to transformative changes in one's life!
   </samp>
 </p>
 
